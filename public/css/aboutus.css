@@ -1,0 +1,15 @@
+#aboutus h1
+{
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#aboutus p
+{
+    font-family: Georgia;
+    font-size: 18px;
+    line-height: 150%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+}
