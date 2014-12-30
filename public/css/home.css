@@ -1,0 +1,36 @@
+#recent-articles h3 a
+{
+   font-family: Georgia;
+   font-size: 25px;
+   color: black; 
+   text-decoration: underline;
+}
+
+#recent-articles h4
+{
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+#recent-articles h5
+{
+    font-family: Georgia;
+    font-size: 15px;
+}
+
+#recent-articles p
+{
+    font-family: Georgia;
+    font-size: 14px;
+}
+
+#recent-articles
+{
+    margin-top: 20px;
+}
+
+#recent-articles .article-description
+{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}

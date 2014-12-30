@@ -4,6 +4,6 @@ get '/' do
     erb :home
 end
 
-get '/article/:number' do
+get '/article/:article_number' do
     erb :article
 end

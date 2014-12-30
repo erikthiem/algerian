@@ -1,0 +1,28 @@
+#article-header h1
+{
+    font-family: Georgia;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#article-header h2
+{
+    font-family: Georgia;
+    font-size: 32px;
+}
+
+#article-header h3
+{
+    font-family: Georgia;
+    font-size: 25px;
+}
+
+#article-body p
+{
+    font-family: Georgia;
+    font-size: 24px;
+    line-height: 150%;
+    margin-top: 2.5%;
+    margin-bottom: 2.5%;
+    text-indent: 6%;
+}
